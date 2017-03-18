@@ -1,0 +1,95 @@
+/*Add your CSS below!*/
+body {
+    /*background: url(http://s18.postimg.org/l7yq0ir3t/pick8_1.jpg);*/
+    /*background-color: #ACE3FF*/
+}
+
+
+header {
+    text-align: center;
+    clear: both;
+}
+
+img {
+    max-width: 100%;
+}
+
+.banner {
+    background: url(https://pbs.twimg.com/profile_images/571076061169868800/2dDdk-Uh_reasonably_small.png) no-repeat center;
+    height: 90px;
+    width: 90px;
+    border: 3px solid #FFFF66;
+    border-radius: 100%;
+    position: relative;
+    /*margin: 8% 45% 0 46%;*/
+    margin: 8% 0 0 33%;
+
+    
+}
+
+/*#wrapper {
+    border: 1px black;
+    top: 30%;
+    margin-left: 39%;
+}*/
+
+#wrapper {
+    /*float: left;*/
+    margin-left: 15%;
+}
+
+
+/*input box spaces*/
+
+.twitter-credentials {
+	height: 25px;
+	width: auto;
+	margin: 18px 0 18px 5%; 
+}
+
+/*inside the input box*/
+
+.twitter-credentials input {
+    font-family: Courier;
+    font-size: 1em;
+    font-weight:200;
+    width: 250px;
+    height: 30px;
+
+}
+
+
+.checkbox {
+    padding-top: 15px;
+    padding-left: -1px;
+}
+
+.checkbox label {
+    font-family: Garamond;
+    font-size: 1em;
+}
+
+.unfollow-days {
+    padding-top: 10px;
+    padding-left: 24px;
+    font-family: Garamond;
+}
+
+select {
+    text-align: center;
+}
+
+.submit {
+    /*padding-top: 50px;*/
+    position: relative;
+    margin-top: 20px;
+    margin-left: 60px; 
+    width: 100px;
+    height: 20px;
+}
+
+.submit:hover {
+    background-color:#E0FFD1;
+}
+
+
